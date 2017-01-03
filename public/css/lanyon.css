@@ -323,6 +323,18 @@ a.sidebar-nav-item:focus {
   margin-top: 0;
 }
 
+figure {
+    margin: 0;
+}
+
+figcaption {
+    text-align: center;
+    margin-bottom: 1em;
+    font-size: 18px;
+    color: rgba(60, 60, 60, 0.43);
+    font-family: "helvetica";
+}
+
 /* Meta data line below post title */
 .post-date {
   display: block;
